@@ -1,8 +1,8 @@
 
 package csci385.messaging;
 import java.io.ByteArrayOutputStream;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
+
+
 
 public interface Message {
 
